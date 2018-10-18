@@ -4,16 +4,16 @@
 点击上方的帮助图标来了解更多。
 */
 body {
-  color: #333;
-  background: #F5F5F5;
+	color: #333;
+	background: #F5F5F5;
 }
 
 body, button, input, select, textarea {
-  font-family: SF Pro SC,SF Pro Display,SF Pro Icons,AOS Icons,PingFang SC,Helvetica Neue,Helvetica,Arial,sans-serif;
+	font-family: SF Pro SC,SF Pro Display,SF Pro Icons,AOS Icons,PingFang SC,Helvetica Neue,Helvetica,Arial,sans-serif;
 }
 
 p {
-  margin: 0 0 0.5em;
+	margin: 0 0 0.5em;
 }
 
 pre {
